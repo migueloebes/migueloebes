@@ -1,9 +1,43 @@
-<div aligin="left">
-<img alt="Logo" align="left" src="https://i.pinimg.com/736x/ad/25/13/ad25131725d956a427df8b574e5bc0d0.jpg" width="20%" />
+<div align="left">
+  <img src="https://i.pinimg.com/736x/ad/25/13/ad25131725d956a427df8b574e5bc0d0.jpg" align="left" width="20%" style="margin-right: 20px;" />
   
-<div aligin="center"> <h1>Migueloebes</h1> 
-  [![YouTube](https://img.shields.io/badge/YouTube-Assinar-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@M1gueloebes)
-  
-- Olá, sou o Miguel Robes, conhecido como "migueloebes". sou um desenvolvedor C#, java (básico) e C.
-- Atualmente, estou em um projeto chamado [Portable Doortable](https://github.com/migueloebes/doortable), um [sistema operacional](https://pt.wikipedia.org/wiki/Sistema_operativo) simples (não básico)
-- Pretendo permanecer divulgando desenvolvimentos de meus projetos e auxiliando em alguns (se puder, utilizando em algum projeto)
+  <h1>
+    Migueloebes 
+    <a href="https://www.youtube.com/@M1gueloebes">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" vertical-align="middle">
+        <img src="https://img.shields.io/badge/Status-Doortable_Em_Desenvolvimento-orange?style=for-the-badge&logo=probot&logoColor=white" alt="Status: Em Desenvolvimento" vertical-align="bigger">"
+      </a>
+       <a href="https://github.com/migueloebes">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/migueloebes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+         <a href="https://www.twitch.tv/miguelrobesreal">
+           <img
+             alt="Twitch"
+             title="me segue na twitch mano"
+             src="https://img.shields.io/badge/Twitch-purple?style-for-the-badge&logo=twitch&logoColor="withe" vertical-align="middle""
+         </a>
+    </a>
+    </a>
+  </h1>
+
+  <ul>
+    <li>Opa, sou o <b>Miguel Robes</b>, desenvolvedor C#, Java e C.</li>
+    <li>Sou também designer gráfico</li>
+    <li>Pretendo divulgar meus projetos (doortable e a Portable) e auxiliar outros projetos.</li>
+  </ul>
+</div>
+
+<br clear="left"/>
+<hr>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=migueloebes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
