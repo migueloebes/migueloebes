@@ -34,10 +34,12 @@
 <hr>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=migueloebes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
+  <h1>Algumas informações minhas</h1> 
+  <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" s
+ 
+  <li>Minha idade atual é 13 anos</li>
+  <li>Sou um programador backend, sempre ligado na parte de lógica</li>
+  <li>Se quiser me ajudar, vá no meu twitter e fale o que poderia adicionar,reportar ou debater sobre o projeto</li>
+  <li>Gosto de laranjas e animes :p </li>
+  
