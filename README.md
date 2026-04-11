@@ -38,10 +38,12 @@
   <li>Front-end: Java,HTML e css</li>
 
 
-  <li>BANI: em equipe, social, vendas</li>
+  <li>BANI: Em equipe, social, vendas e liderança</li>
 
 
-  <li>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</li>
+  <li>Participação: Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</li>
+
+  <li>Gerenciei e planejei um bot para o discord, de automação e ia. (descontinuado)</li>
 
 
   <li>Doortable: Um sistema operacional baseado em Linux, base arch</li>
