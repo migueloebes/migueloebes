@@ -1,4 +1,4 @@
-<div align="left">
+⁸<div align="left">
   <img src="https://i.pinimg.com/736x/ad/25/13/ad25131725d956a427df8b574e5bc0d0.jpg" align="left" width="20%" style="margin-right: 20px;" />
   
   <h1>
@@ -31,7 +31,7 @@
 
 <br clear="left"/>
 <hr>
-
+***
 <p>
 <div align="left">
   <h1>Algumas informações minhas</h1> 
@@ -40,7 +40,7 @@
 
 (parte feita no celular, por isso tá muito grande a fonte, vou ainda alterar)
 
-***
+
 
   <li>Backend: java, Javascript, c#</li>
 
@@ -54,5 +54,5 @@
   <li>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</li>
 
 
-  <b>Doortable: Um sistema operacional baseado em Linux, base arch</b>
+  <li>Doortable: Um sistema operacional baseado em Linux, base arch</li>
   
