@@ -31,17 +31,8 @@
 
 <br clear="left"/>
 <hr>
-(parte feita no celular, por isso tá muito grande a fonte, vou ainda alterar)
-<p>
-<div align="left">
-  <h1>Algumas informações minhas</h1> 
-  <h2>Doortable: Java • Javascript • C# • HTML//css<//<h2>
-  <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" 
 
-
-
-
-  <li>Backend: java, Javascript, c#</li>
+<li>Backend: java, Javascript, c#,python</li>
 
 
   <li>Front-end: Java,HTML e css</li>
@@ -54,4 +45,4 @@
 
 
   <li>Doortable: Um sistema operacional baseado em Linux, base arch</li>
-  
+   
