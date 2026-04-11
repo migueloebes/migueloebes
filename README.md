@@ -38,7 +38,9 @@
   <h2>Doortable: Java • Javascript • C# • HTML//css</li>
   <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" 
 
+(parte feita no celular, por isso tá muito grande a fonte, vou ainda alterar)
 
+***
 
   <li>Backend: java, Javascript, c#</li>
 
