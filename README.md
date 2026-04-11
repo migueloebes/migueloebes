@@ -24,9 +24,8 @@
   </h1>
 
   <ul>
-    <li>Opa, sou o <b>Miguel Robes</b>, desenvolvedor C#, Java e C.</li>
-    <li>Sou também designer gráfico</li>
-    <li>Pretendo divulgar meus projetos (doortable e a Portable) e auxiliar outros projetos.</li>
+    <li>Opa, sou o <b>Miguel Robes</b>, Desenvolvedor C#,Java,javascript e python.</li>
+    <li>Minha idade atual é 13 anos</li>
   </ul>
 </div>
 
@@ -36,10 +35,11 @@
 <p>
 <div align="left">
   <h1>Algumas informações minhas</h1> 
-  <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" s
- 
-  <li>Minha idade atual é 13 anos</li>
-  <li>Sou um programador backend, sempre ligado na parte de lógica</li>
-  <li>Se quiser me ajudar, vá no meu twitter e fale o que poderia adicionar,reportar ou debater sobre o projeto</li>
-  <li>Gosto de laranjas e animes :p </li>
+  <h2>Doortable: Java • Javascript • C# • HTML//css</li>
+  <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" 
+  <li>Backend: java, Javascript, c#</li>
+  <li>Front-end: Java,HTML e css</li>
+  <h3>BANI: em equipe, social, vendas</h3>
+  <h3>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</h3>
+  <h3>Doortable: Um sistema operacional baseado em Linux, base arch</h3>
   
