@@ -41,7 +41,8 @@
   <li>BANI: Em equipe, social, vendas e liderança</li>
 
 
-  <li>Participação: Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</li>
+  <li>Participação: Participei de um projeto de programa de produtivamente
+ setembro 2025 — novembro 2025</li>
 
   <li>Gerenciei e planejei um bot para o discord, de automação e ia. (descontinuado)
 Setembro 2025 — Outubro 2025</li>
