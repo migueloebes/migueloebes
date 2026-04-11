@@ -40,9 +40,17 @@
 
 
 
-  <b>Backend: java, Javascript, c#</b>
-  <b>Front-end: Java,HTML e css</b>
-  <b>BANI: em equipe, social, vendas</b>
-  <b>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</b>
+  <li>Backend: java, Javascript, c#</li>
+
+
+  <li>Front-end: Java,HTML e css</li>
+
+
+  <li>BANI: em equipe, social, vendas</li>
+
+
+  <li>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</li>
+
+
   <b>Doortable: Um sistema operacional baseado em Linux, base arch</b>
   
