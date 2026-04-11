@@ -39,9 +39,10 @@
   <img src="https://i.pinimg.com/736x/bc/7c/6f/bc7c6fb951c440d62f59bc8747448842.jpg" align="left" width="20%" 
 
 
-  <li>Backend: java, Javascript, c#</li>
-  <li>Front-end: Java,HTML e css</li>
-  <h3>BANI: em equipe, social, vendas</h3>
-  <h3>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</h3>
-  <h3>Doortable: Um sistema operacional baseado em Linux, base arch</h3>
+
+  <b>Backend: java, Javascript, c#</b>
+  <b>Front-end: Java,HTML e css</b>
+  <b>BANI: em equipe, social, vendas</b>
+  <b>Participei de um projeto de programa de produtivamente, setembro 2025 — novembro 2025</b>
+  <b>Doortable: Um sistema operacional baseado em Linux, base arch</b>
   
