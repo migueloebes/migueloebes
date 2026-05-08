@@ -32,10 +32,10 @@
 <br clear="left"/>
 <hr>
 
-<li>Backend: java, Javascript, c#,python</li>
+<li>Backend: java, rust, python</li>
 
 
-  <li>Front-end: Java,HTML e css</li>
+  <li>Front-end: Java,HTML/css e rust</li>
 
 
   <li>BANI: Em equipe, social, vendas e liderança</li>
