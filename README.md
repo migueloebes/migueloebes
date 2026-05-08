@@ -24,7 +24,7 @@
   </h1>
 
   <ul>
-    <li>Opa, sou o <b>Miguel Robes</b>, Desenvolvedor C#,Java,javascript e python.</li>
+    <li>Opa, sou o <b>Miguel Robes</b>, Desenvolvedor java, rust e python.</li>
     <li>Minha idade atual é 13 anos</li>
   </ul>
 </div>
